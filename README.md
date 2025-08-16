@@ -1,4 +1,4 @@
-# PointSSM: State Space Model for Large-Scale Point Cloud Learning and Down-Sampling
+# PointSSM: State Space Model for Large-Scale LiDAR Point Cloud Semantic Segmentation
 
 ## Results
 ### Indoor semantic segmentation
