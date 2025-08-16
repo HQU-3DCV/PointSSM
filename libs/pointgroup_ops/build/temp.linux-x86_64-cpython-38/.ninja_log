@@ -1,0 +1,7 @@
+# ninja log v5
+0	1109	1725189361673749478	/home/cv/gjl/Pointcept/libs/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster_kernel.o	fc666212859156ac
+1	249	1725189866651269364	/home/cv/gjl/Pointcept/libs/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster_kernel.o	67a243021d2ae1fe
+0	244	1725189967481739593	/home/cv/.local/share/Trash/files/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster_kernel.o	4725cc5317126495
+1	243	1725189970842416989	/home/cv/.local/share/Trash/files/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster_kernel.o	28aa92bf4de8abbd
+0	248	1725190096788444080	/home/cv/gjl/Pointcept/libs/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster_kernel.o	fc666212859156ac
+0	8325	1725190104861355770	/home/cv/gjl/Pointcept/libs/pointgroup_ops/build/temp.linux-x86_64-cpython-38/src/bfs_cluster.o	ef02d27d60d8cd2b
