@@ -18,7 +18,7 @@
 
 ## Data
 * Scannet,S3DIS datasets can be downloaded following by (https://huggingface.co/Pointcept/datasets)
-* DALES can be downloaded at here
+* DALES can be downloaded at (https://drive.google.com/file/d/1Ta5Hg7e1dyUCSaDRCfAt_sDyisBuoikw/view?usp=drive_link)
 
 
 ## Environment
