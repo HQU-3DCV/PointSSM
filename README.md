@@ -17,7 +17,7 @@
 |    PointSSM    |     DALES     |    2     |  82.3%   |                                            -                                             |                  -                  |
 
 ## Data
-* Scannet,S3DIS datasets can be downloaded following by [PointCept](https://huggingface.co/Pointcept/datasets)
+* Scannet,S3DIS datasets can be downloaded following by (https://huggingface.co/Pointcept/datasets)
 * DALES can be downloaded at here
 
 
