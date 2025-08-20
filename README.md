@@ -16,7 +16,9 @@
 |    PointSSM    | SemanticKITTI |    2     |    –     |                                            –                                             |                  –                  |
 |    PointSSM    |     DALES     |    2     |  82.3%   |                                            -                                             |                  -                  |
 
-
+## Data
+* Scannet,S3DIS datasets can be downloaded following by [PointCept](https://huggingface.co/Pointcept/datasets)
+* DALES can be downloaded at here
 
 
 ## Environment
