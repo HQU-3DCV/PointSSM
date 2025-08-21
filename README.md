@@ -1,5 +1,5 @@
 # PointSSM: State Space Model for Large-Scale LiDAR Point Cloud Semantic Segmentation
-
+![poster](./PointSSM-poster.png)
 ## Results
 ### Indoor semantic segmentation
 
